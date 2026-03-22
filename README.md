@@ -52,8 +52,7 @@ Input (128x128x3)
 
  1. Clone the repo
 ```
-git clone https://github.com/your-username/animal-image-classification.git
-cd animal-image-classification
+https://github.com/arvindlochan7/animal-image-classification-.git
 ```
 
  2. Install dependencies
