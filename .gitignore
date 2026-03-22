@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Model files (large — use Git LFS or exclude)
+*.h5
+*.keras
+*.pb
+saved_model/
+
+# Dataset (never commit raw data)
+data/
+datasets/
+*.csv
+*.zip
+
+# Kaggle credentials
+kaggle.json
+.kaggle/
+
+# Output files
+*.png
+*.jpg
+*.jpeg
+training_history.png
+confusion_matrix.png
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
