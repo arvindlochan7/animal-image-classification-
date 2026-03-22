@@ -79,9 +79,7 @@ python model.py
 # Outputs
 
 After training, the script generates:
-- `training_history.png` — accuracy & loss curves
 - `confusion_matrix.png` — model performance across classes
-- `animal_classifier.h5` — saved model (excluded from git)
 
 ---
 
