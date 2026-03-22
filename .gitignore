@@ -16,7 +16,6 @@ env/
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
-*.ipynb
 
 # Model files (large — use Git LFS or exclude)
 *.h5
@@ -35,9 +34,6 @@ kaggle.json
 .kaggle/
 
 # Output files
-*.png
-*.jpg
-*.jpeg
 training_history.png
 confusion_matrix.png
 
